@@ -4,7 +4,9 @@ class Solution {
         s = s.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
         int i=0, j=s.length()-1;
         while(i <= j){
-            if(s.charAt(i) != s.charAt(j)) return false;
+            if(s.charAt(i) != s.charAt(j)){
+                return false;
+            }
             i++;
             j--;
         }
