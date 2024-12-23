@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shubhrastogi/daily-leetcode/tree/master/0179-largest-number) |
+| [0792-binary-search](https://github.com/shubhrastogi/daily-leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shubhrastogi/daily-leetcode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shubhrastogi/daily-leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
